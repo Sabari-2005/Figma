@@ -33,6 +33,7 @@ Publish the website in the given URL.
 Figma
 
 ## CODE:
+```
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -85,6 +86,7 @@ Figma
     </div>
 </body>
 </html>
+```
 
 ## OUTPUT:
 ![Screenshot 2024-05-10 172213](https://github.com/Sabari-2005/Figma/assets/139338709/0707a00b-8906-43fd-8f04-749f83fa5050)

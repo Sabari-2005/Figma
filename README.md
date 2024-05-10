@@ -64,7 +64,7 @@ Figma
             <div style="width: 99px; height: 44px; left: 119px; top: 475px; position: absolute; background: #29F94A; border-radius: 5px"></div>
             <div style="width: 79px; height: 15px; left: 127px; top: 488px; position: absolute; text-align: center; color: white; font-size: 18px; font-family: Inter; font-weight: 400; word-wrap: break-word">LOGIN</div>
             <div style="width: 360px; height: 0px; left: 0px; top: 75.05px; position: absolute; border: 4px #29F94A solid"></div>
-            <div style="width: 99px; height: 44px; left: 221px; top: 122px; position: absolute; background: #29F94A; border-radius: 5px"></div>
+            <div style="width: 99px; height: 44px; left: 221px; top: 122px; position: absolute; background: #29F94A; border-radius: 5px"></div> 
             <div style="width: 79px; height: 15px; left: 229px; top: 135px; position: absolute; text-align: center; color: white; font-size: 18px; font-family: Inter; font-weight: 400; word-wrap: break-word">Register</div>
         </div>
         <div style="width: 343px; height: 640px; position: relative; background: grey">
